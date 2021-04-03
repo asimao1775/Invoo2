@@ -1,0 +1,1011 @@
+﻿DE/FROM,CONTA,REP_ACCOUNT_POR,REP_ID
+ATIVO,,0,
+ATIVO CIRCULANTE,,0,
+CAIXA E EQUIVALENTES,,0,
+CAIXA/FUNDO FIXO,,0,
+CAIXA GERAL,,0,
+Caixa,1.1.1.01.01.000001,Caixa e Bancos,111
+FUNDO FIXO,,0,
+Fundo fixo,1.1.1.01.02.000001,Caixa e Bancos,111
+DEPÓSITOS BANCÁRIOS À VISTA - NO PAÍS,,0,
+BANCO CONTA MOVTO-SÃO JOAQUIM HOLDING,,0,
+Santander-conta-13.000567-4,1.1.1.02.01.000001,Caixa e Bancos,111
+Santander-conta-13.000599-7,1.1.1.02.01.000002,Caixa e Bancos,111
+BANCO CONTA MOVTO-CIAL IMOBILIÁRIA,,0,
+Santander-conta-13.000490-3,1.1.1.02.02.000001,Caixa e Bancos,111
+BANCO CONTA MOVTO-QUERENCA PECCUARIA,,0,
+Caixa economica federal-conta-3832-9,1.1.1.02.04.000001,Caixa e Bancos,111
+Banco do brasil-conta-11524-x,1.1.1.02.04.000003,Caixa e Bancos,111
+Bradesco-conta-5442-9,1.1.1.02.04.000004,Caixa e Bancos,111
+BANCO CONTA MOVTO-CONECTAR,,0,
+Itaú-conta-05949-0,1.1.1.02.05.000001,Caixa e Bancos,111
+BANCO CONTA MOVTO-PA GOLD,,0,
+Itaú-conta-06511-7,1.1.1.02.06.000001,Caixa e Bancos,111
+Bradesco-conta-28.067-4,1.1.1.02.06.000002,Caixa e Bancos,111
+BANCO CONTA MOVTO-ARARAS,,0,
+Bradesco-ag.2899 cc.24.682-4,1.1.1.02.07.000001,Caixa e Bancos,111
+BANCO CONTA MOVTO-MAVE,,0,
+Itaú-conta-06050-6,1.1.1.02.08.000001,Caixa e Bancos,111
+BANCO CONTA MOVTO-METAPI,,0,
+Santander-conta-13.001194-7,1.1.1.02.09.000002,Caixa e Bancos,111
+BANCO CONTA MOVTO- MINIERA,,0,
+Itaú-conta-05705-6,1.1.1.02.10.000001,Caixa e Bancos,111
+BANCO CONTA MOVTO-CLARITAS,,0,
+Santander-conta-13.001195-4,1.1.1.02.11.000001,Caixa e Bancos,111
+BANCO CONTA MOVTO,,0,
+Santander-conta-13.000734-6,1.1.1.02.14.000001,Caixa e Bancos,111
+BANCO CONTA MOVTO-GENESIS,,0,
+Santander - conta - 13004834-3,1.1.1.02.15.000001,Caixa e Bancos,111
+BANCO CONTA MOVTO-GENESIS,,0,
+Santander-conta-13000569-8,1.1.1.02.16.000001,Caixa e Bancos,111
+TÍTULOS E VALORES MOBILIÁRIOS - NO PAÍS,,0,
+APLIC. FINANCEIRAS SAO JOAQUIM HOLDING,,0,
+Santander-13.000567-4-fic-di-fundo 2,1.1.1.04.01.000001,Aplicações Financeiras,112
+Santander-13.000567-4-fic-di-fundo 3,1.1.1.04.01.000002,Aplicações Financeiras,112
+Santander-13.000599-7-fic-di-fundo 1,1.1.1.04.01.000003,Aplicações Financeiras,112
+Santander-13.000599-7-fic-di fundo 4,1.1.1.04.01.000007,Aplicações Financeiras,112
+Santander-13.000567-4-fic-di-fundo 5,1.1.1.04.01.000008,Aplicações Financeiras,112
+Santander-13.000599-7-cdb di pj,1.1.1.04.01.000009,Aplicações Financeiras,112
+Santander-13.000567-4-cdb di pj,1.1.1.04.01.000010,Aplicações Financeiras,112
+Banco do brasil- rf ref di ágil - cnpjrf,1.1.1.04.04.000009,Aplicações Financeiras,112
+AF - EM MOEDA CORRENTE,1.2.1.01.01.000001,Aplicações Financeiras,112
+TITULO DE CAPITALIZACAO 567 12 MESES,1.1.1.04.01.000011,Aplicações Financeiras,112
+APLIC. FINANCEIRAS CIAL IMOBILIÁRIA,,0,
+Fic yield vip di - conta fundo 1,1.1.1.04.02.000003,Aplicações Financeiras,112
+Santander-13.000490-3- cdb di pj,1.1.1.04.02.000004,Aplicações Financeiras,112
+APLIC. FINANCEIRAS QUERENCA PECCUARIA,,0,
+B brasil 11524-x ourocap,1.1.1.04.04.000003,Aplicações Financeiras,112
+BANCO DO BRASIL - RF DI PLUS  ÁGIL,1.1.1.04.04.000010,Aplicações Financeiras,112
+APLIC. FINANCEIRAS CONECTAR,,0,
+Itau-05949 soberano rf simples lp,1.1.1.04.05.000001,Aplicações Financeiras,112
+APLIC. FINANCEIRAS PA GOLD,,0,
+Itau-05949 soberano rf simples lp,1.1.1.04.06.000004,Aplicações Financeiras,112
+APLIC. FINANCEIRAS MINIERA,,0,
+Aplic. itau - 05705-6 -soberano rf simpl,1.1.1.04.10.000002,Aplicações Financeiras,112
+APLIC. FINANCEIRAS MTR,,0,
+Santander - cdb conta max empresarial,1.1.1.04.13.000002,Aplicações Financeiras,112
+CLIENTES,,0,
+CLIENTES,,0,
+CLIENTES,,0,
+Construtora andrade gutierrez - sede,1.1.2.01.01.000001,Clientes,113
+Const. andrade gutierrez (graal andares),1.1.2.01.01.000002,Clientes,113
+Const. andrade gutierrez (arquivo),1.1.2.01.01.000003,Clientes,113
+Impacto automotivo ltda,1.1.2.01.01.000004,Clientes,113
+Madeireira sucesso ltda,1.1.2.01.01.000005,Clientes,113
+Instituto newton paiva,1.1.2.01.01.000009,Clientes,113
+Oficio publicidade,1.1.2.01.01.000011,Clientes,113
+Const. andrade gutierrez (graal lojas),1.1.2.01.01.000012,Clientes,113
+Fração ideal-unidad. 1401,1.1.2.01.01.000033,Clientes,113
+08 ind. confecção,1.1.2.01.01.000034,Clientes,113
+Fração ideal-unidad. 1502,1.1.2.01.01.000035,Clientes,113
+Aldo silva valente jr/carlos balbino,1.1.2.01.01.000044,Clientes,113
+Diego vidal,1.1.2.01.01.000053,Clientes,113
+Mizael souza lima filho,1.1.2.01.01.000058,Clientes,113
+Moises fernandes campos,1.1.2.01.01.000059,Clientes,113
+Onofre eustaquio ribeiro,1.1.2.01.01.000060,Clientes,113
+Humberto geraldo secundino,1.1.2.01.01.000062,Clientes,113
+Luiz augusto silva leal,1.1.2.01.01.000066,Clientes,113
+Biocampo comercio,1.1.2.01.01.000067,Clientes,113
+Jose alonso andrade da silveira,1.1.2.01.01.000070,Clientes,113
+Coreia com reprod insem ltda me,1.1.2.01.01.000071,Clientes,113
+Pedro guimaraes lage,1.1.2.01.01.000074,Clientes,113
+Agroz pecuaria,1.1.2.01.01.000077,Clientes,113
+Leolino pimenta ribeiro junior,1.1.2.01.01.000080,Clientes,113
+Sergio frança leao,1.1.2.01.01.000094,Clientes,113
+Adem pires lage,1.1.2.01.01.000095,Clientes,113
+Joao guilherme maldini pitanguy,1.1.2.01.01.000096,Clientes,113
+Fabio de freitas andrade,1.1.2.01.01.000097,Clientes,113
+Roberto gregorio,1.1.2.01.01.000102,Clientes,113
+Emilson martins de assis,1.1.2.01.01.000107,Clientes,113
+Tais aparecida lima e silva,1.1.2.01.01.000115,Clientes,113
+Virgilio nunes coelho,1.1.2.01.01.000123,Clientes,113
+Albaro roselvet goncalves,1.1.2.01.01.000172,Clientes,113
+Adauto augusto do nascimento feitosa,1.1.2.01.01.000173,Clientes,113
+Douglas rodrigues de oliveira,1.1.2.01.01.000177,Clientes,113
+Frederico caldeira teixeira,1.1.2.01.01.000179,Clientes,113
+Fração ideal-unidad. 1101,1.1.2.01.01.000182,Clientes,113
+Juliano campos costa e outro,1.1.2.01.01.000183,Clientes,113
+Jose hailton castelar junior,1.1.2.01.01.000208,Clientes,113
+Elias bottrel reis,1.1.2.01.01.000210,Clientes,113
+Iraci de assis cunha,1.1.2.01.01.000212,Clientes,113
+Joao paulo nunes bastos,1.1.2.01.01.000214,Clientes,113
+Joao ricardo pereira da silva,1.1.2.01.01.000216,Clientes,113
+Vania alves da silva,1.1.2.01.01.000220,Clientes,113
+Fernando rodrigo marques de castro,1.1.2.01.01.000229,Clientes,113
+Lucas de melo mendonça ferreira,1.1.2.01.01.000230,Clientes,113
+Carlos balbino figueiredo e outros,1.1.2.01.01.000235,Clientes,113
+Fração ideal -unidad. 1102,1.1.2.01.01.000238,Clientes,113
+Fernando ferreira de carvalho,1.1.2.01.01.000239,Clientes,113
+Alexandre lopes lacerda,1.1.2.01.01.000245,Clientes,113
+Raquel bottrel reis oliveira,1.1.2.01.01.000247,Clientes,113
+Leonardo sandy reis,1.1.2.01.01.000248,Clientes,113
+Antonio eustaquio alves de souza,1.1.2.01.01.000258,Clientes,113
+Rogerio de melo figueiredo,1.1.2.01.01.000263,Clientes,113
+Andre almeida costa,1.1.2.01.01.000287,Clientes,113
+Genoveva neta assunção,1.1.2.01.01.000299,Clientes,113
+Adriano paiva garcia,1.1.2.01.01.000301,Clientes,113
+Dilson eduardo corgozinho,1.1.2.01.01.000311,Clientes,113
+Wemerson amaro coura,1.1.2.01.01.000314,Clientes,113
+Renato caldas cordeiro costa,1.1.2.01.01.000337,Clientes,113
+Juliano de souza maia,1.1.2.01.01.000339,Clientes,113
+José flávio lanna drumond,1.1.2.01.01.000340,Clientes,113
+Euripedes jose da silva,1.1.2.01.01.000344,Clientes,113
+Marcos antonio carvalho de lacerda,1.1.2.01.01.000347,Clientes,113
+Eduardo costa arruda,1.1.2.01.01.000350,Clientes,113
+Diego henrique lima,1.1.2.01.01.000355,Clientes,113
+Julio cezar de araujo,1.1.2.01.01.000363,Clientes,113
+Lilian portugal,1.1.2.01.01.000368,Clientes,113
+Fazendas sisan ltda,1.1.2.01.01.000371,Clientes,113
+Fração ideal-unidad. 802,1.1.2.01.01.000388,Clientes,113
+Fração ideal-unidad. 901,1.1.2.01.01.000389,Clientes,113
+Marco stop car estacionamento de veiculo,1.1.2.01.01.000393,Clientes,113
+Fração ideal-unidad. 1302,1.1.2.01.01.000396,Clientes,113
+Ronaldo de souza queiroz,1.1.2.01.01.000398,Clientes,113
+Endolatina comercio e representacoes ltd,1.1.2.01.01.000402,Clientes,113
+Joao cabral duarte,1.1.2.01.01.000426,Clientes,113
+Daniel nogueira coutinho,1.1.2.01.01.000427,Clientes,113
+Edson martins do rego,1.1.2.01.01.000428,Clientes,113
+Raimundo assis duarte,1.1.2.01.01.000433,Clientes,113
+Junior araujo e silva,1.1.2.01.01.000436,Clientes,113
+Wesley henrique duarte dutra,1.1.2.01.01.000440,Clientes,113
+Jose nilson guimaraes,1.1.2.01.01.000441,Clientes,113
+Valdivino jose da silva,1.1.2.01.01.000448,Clientes,113
+Fração ideal -unidad. 601,1.1.2.01.01.000454,Clientes,113
+Baviera empreendimentos e participações,1.1.2.01.01.000484,Clientes,113
+Geraldo candido machado,1.1.2.01.01.000485,Clientes,113
+Arlan gomes pereira,1.1.2.01.01.000487,Clientes,113
+Paulo marcio soares oliveira,1.1.2.01.01.000488,Clientes,113
+Ivomautico alves coutinho,1.1.2.01.01.000075,Clientes,113
+Jose henrique chaves ribeiro,1.1.2.01.01.000108,Clientes,113
+Leandro botelho neiva,1.1.2.01.01.000116,Clientes,113
+Fernando de freitas caldeira,1.1.2.01.01.000121,Clientes,113
+Andre vinicios santos,1.1.2.01.01.000335,Clientes,113
+Fazenda brasilia agropecuaria ltda.,1.1.2.01.01.000346,Clientes,113
+Luiz antonio gonçalves,1.1.2.01.01.000367,Clientes,113
+Enir gomes barbosa,1.1.2.01.01.000055,Clientes,113
+Celso dionísio pereira,1.1.2.01.01.000452,Clientes,113
+Ana maria dias pinto dos santos,1.1.2.01.01.000457,Clientes,113
+Wesley de oliveira louzada bernardo,1.1.2.01.01.000459,Clientes,113
+Pamella nunes clementino,1.1.2.01.01.000460,Clientes,113
+Alejandro vargas velasquez,1.1.2.01.01.000461,Clientes,113
+Osvaldo celio berno,1.1.2.01.01.000463,Clientes,113
+Maria luiza viana dias,1.1.2.01.01.000464,Clientes,113
+Fabio bruno mendes rodrigues,1.1.2.01.01.000465,Clientes,113
+Marcos antonio helmer,1.1.2.01.01.000467,Clientes,113
+Ezio bretas de assis neto,1.1.2.01.01.000425,Clientes,113
+Antonio oscar gonçavels flacão,1.1.2.01.01.000483,Clientes,113
+Jalisson lacerda de oliveira,1.1.2.01.01.000492,Clientes,113
+Fração ideal-unidad. 1402,1.1.2.01.01.000493,Clientes,113
+Fração ideal-unidad. 1602,1.1.2.01.01.000494,Clientes,113
+Leandro lima borghi,1.1.2.01.01.000495,Clientes,113
+Getulio de assis campos,1.1.2.01.01.000501,Clientes,113
+Luiz paulo vilasboas moreira e outros(s),1.1.2.01.01.000502,Clientes,113
+Fração ideal-unidad. 1902,1.1.2.01.01.000504,Clientes,113
+Milton de faria saldanha,1.1.2.01.01.000458,Clientes,113
+Jose elci marques araujo,1.1.2.01.01.000496,Clientes,113
+Jahir richard de oliveira,1.1.2.01.01.000499,Clientes,113
+Joao alfredo r. neto,1.1.2.01.01.000042,Clientes,113
+Clientes nacionais,1.1.2.01.01.999999,Clientes,113
+JORGEMAR CONSTRUTORA,1.1.4.01.01.000101,Clientes,113
+PROVISAO P/ CREDITOS DE LIQUID. DUVIDOSA,,0,
+Prov. perdas est. e ajust. ativos  pecld,1.1.2.01.02.000001,Clientes,113
+ESTOQUES,,0,
+INSUMOS,,0,
+INSUMOS,,0,
+Medicamentos veterinarios,1.1.3.02.01.000001,Estoques,114
+Nutricionais,1.1.3.02.01.000002,Estoques,114
+Adubo / fertilizante,1.1.3.02.01.000012,Estoques,114
+ESTOQUES PARA COMERCIALIZACAO,,0,
+ESTOQUES PARA COMERCIALIZACAO,,0,
+"Posse 1,2,3 e 16 lotes 14 e 15 c jardim",1.1.3.05.01.000005,Estoques,114
+Posse paulo henrique l 12 m couto 490,1.1.3.05.01.000007,Estoques,114
+BARÃO HOMEM DE MELO 2291 - LOTES 05 E 06,1.1.3.05.01.000038,Estoques,114
+BARÃO HOMEM DE MELO 2251 - LOTES 04 QUA,1.1.3.05.01.000037,Estoques,114
+Casa - av. almirante alexandrino 272  bh,1.1.3.05.01.000017,Estoques,114
+Casa - av. almirante alexandrino 308  bh,1.1.3.05.01.000018,Estoques,114
+02 lotes - rua herculano freitas 925 bh,1.1.3.05.01.000019,Estoques,114
+Casa - rua herculano de freitas 935 bh,1.1.3.05.01.000020,Estoques,114
+Baixa  fração ideal terreno pela venda,1.1.3.05.01.000021,Estoques,114
+Imovel vale do sol,1.1.3.05.01.000022,Estoques,114
+Ap 1005 r. frederico bracher jr n° 300,1.1.3.05.01.000034,Estoques,114
+CULTURA TEMPORARIA,,0,
+CULTURA TEMPORARIA,,0,
+Cultura temporaria milho,1.1.3.08.01.000001,Estoques,114
+Cultura temporaria feijao,1.1.3.08.01.000003,Estoques,114
+Cultura em formacao - capim mombaça,1.1.3.08.01.000004,Estoques,114
+Cultura em formacao - soja,1.1.3.08.01.000005,Estoques,114
+REBANHO BOVINO - GADO INDUSTRIAL,,0,
+CRIA,,0,
+Bezerros (as) de 0 a 7 meses,1.1.3.09.01.000003,Estoques,114
+RECRIA,,0,
+Novilhos (as) de 8 a 36 meses,1.1.3.09.02.000003,Estoques,114
+Novilhas (08 a 36 meses),1.1.3.09.02.000001,Estoques,114
+ENGORDA,,0,
+Gados acima de 36 meses,1.1.3.09.03.000003,Estoques,114
+REBANHO BOVINO,,0,
+Rebanho bovino,1.1.3.09.05.000001,Estoques,114
+REBANHO BOVINO - GADO BRAHMAN,,0,
+RECRIA,,0,
+Bezerros (as) de 0 a 7 meses,1.1.3.11.01.000003,Estoques,114
+EMBRIÕES,,0,
+EMBRIÕES,,0,
+Embriões (bovinos),1.1.3.12.01.000001,Estoques,114
+SÊMEN,,0,
+SÊMEN,,0,
+Sêmen (bovinos),1.1.3.13.01.000001,Estoques,114
+ADIANTAMENTOS,,0,
+ADIANTAMENTOS,,0,
+ADIANTAMENTO A FORNECEDOR,,0,
+Dinamica servicos especializados ltda,1.1.4.01.01.000004,Outros Ativos,118
+Sodexo pass do brasil,1.1.4.01.01.000013,Outros Ativos,118
+Thais viana gonzaga,1.1.4.01.01.000074,Outros Ativos,118
+Serviço registral imobiliario da comarca,1.1.4.01.01.000057,Outros Ativos,118
+Adiantamento de lucro (ou dividendos),1.1.4.01.04.000001,Outros Ativos,118
+Dolomita do brasil s/a ind,1.1.4.01.01.000087,Outros Ativos,118
+Pousada vila real,1.1.4.01.01.000090,Outros Ativos,118
+Alfa turismo ltda,1.1.4.01.01.000091,Outros Ativos,118
+B2w companhia digital,1.1.4.01.01.000008,Outros Ativos,118
+Allpark empreendimentos participacoes lt,1.1.4.01.01.000092,Outros Ativos,118
+Hospital vera cruz sa,1.1.4.01.01.000094,Outros Ativos,118
+Amil assistencia medica internacional sa,1.1.4.01.01.000095,Outros Ativos,118
+LUCAS ALVES DE MELO DA SILVA,1.1.4.01.01.000096,Outros Ativos,118
+PRIMECERT CERTIFICADOS DIGITAIS,1.1.4.01.01.000098,Outros Ativos,118
+ADIANTAMENTOS A FUNCIONÁRIOS,,0,
+Adiantamento  ferias,1.1.4.01.02.000002,Outros Ativos,118
+Adiantamento  13o. salario,1.1.4.01.02.000001,Outros Ativos,118
+TRIBUTOS A RECUPERAR,,0,
+TRIBUTOS A RECUPERAR,,0,
+TRIBUTOS A RECUPERAR,,0,
+Iss a recuperar,1.1.5.01.01.000001,Impostos a Recuperar,115
+Irrf s/ aplicacoes financeiras,1.1.5.01.01.000040,Impostos a Recuperar,115
+Inss a recuperar,1.1.5.01.01.000047,Impostos a Recuperar,115
+Saldo negativo irpj a recuperar,1.1.5.01.01.000042,Impostos a Recuperar,115
+Cofins a recuperar,1.1.5.01.01.000043,Impostos a Recuperar,115
+Pis a recuperar,1.1.5.01.01.000045,Impostos a Recuperar,115
+Saldo negativo csll a recuperar,1.1.5.01.01.000054,Impostos a Recuperar,115
+TRIBUTOS A COMPENSAR,,0,
+Irpj antecipado-regime caixa x compet.,1.1.5.01.02.000001,Impostos a Recuperar,115
+Csll antecipado-regime caixa x compet.,1.1.5.01.02.000002,Impostos a Recuperar,115
+Irpj recolhido por estimativa,1.1.5.01.02.000003,Impostos a Recuperar,115
+Csll recolhido por estimativa,1.1.5.01.02.000004,Impostos a Recuperar,115
+Inss retido a compensar,1.1.5.01.02.000007,Impostos a Recuperar,115
+CREDITOS COM PARTES RELACIONADAS,,0,
+CREDITOS COM PARTES RELACIONADAS,,0,
+MÚTUOS A ACIONISTAS,,0,
+Moisés fernandes campos,1.1.6.01.01.000005,Mutuo Ativo CP,117
+Rodrigo werneck gutierrez,1.1.6.01.01.000001,Mutuo Ativo CP,117
+Henrique werneck gutierrez,1.1.6.01.01.000002,Mutuo Ativo CP,117
+MÚTUOS A PARTES RELACIONADAS,,0,
+Sao joaquim holding e empreend. ltda,1.1.6.01.02.000001,Mutuo Ativo CP,117
+Pa gold mineração e metalurgia s/a,1.1.6.01.02.000009,Mutuo Ativo CP,117
+Miniera assessoria s/a,1.1.6.01.02.000013,Mutuo Ativo CP,117
+Querenca empresa rural agri. peccuaria,1.1.6.01.02.000007,Mutuo Ativo CP,117
+Conectar participações s/a,1.1.6.01.02.000008,Mutuo Ativo CP,117
+Araras mineração s/a,1.1.6.01.02.000010,Mutuo Ativo CP,117
+Sjk participacoes ltda,1.1.6.01.02.000020,Mutuo Ativo CP,117
+Genesis Mining Participacoes,1.1.6.01.02.000021,Mutuo Ativo CP,117
+DESPESAS ANTECIPADAS,,0,
+DESPESAS ANTECIPADAS,,0,
+SEGUROS A APROPRIAR,,0,
+Seguros a apropriar - veiculos,1.1.7.01.01.000001,Despesas Antecipadas,116
+Seguros a apropriar - imoveis,1.1.7.01.01.000002,Despesas Antecipadas,116
+locação gameleira agropecuária,1.1.7.01.99.000003,Despesas Antecipadas,116
+OUTRAS DESPESAS PAGAS ANTECIPADAMENTE,,0,
+Iptu a apropriar,1.1.7.01.99.000004,Despesas Antecipadas,116
+Juros a apropriar s/emprestimos e financ,1.1.7.01.99.999999,Despesas Antecipadas,116
+OUTROS ATIVOS CIRCULANTES,,0,
+OUTROS ATIVOS CIRCULANTES,,0,
+MÚTUOS COM PARTES NÃO RELACIONADAS,,0,
+Empréstimos a funcionários,1.1.8.01.04.000002,Outros Ativos,118
+OUTROS VALORES A RECEBER,,0,
+Shq - dividendos,1.1.8.01.99.000003,Outros Ativos,118
+Arrendamento aguas do treme,1.1.8.01.99.000004,Outros Ativos,118
+Cheques em cobrança,1.1.8.01.99.000006,Outros Ativos,118
+ATIVO NAO CIRCULANTE,,0,
+REALIZAVEL A LONGO PRAZO,,0,
+CREDITOS COM PARTES RELACIONADAS,,0,
+MÚTUOS CONCEDIDOS A PARTES RELACIONADAS,,0,
+Sao joaquim holding e empreend. ltda,1.2.1.06.02.000001,Mútuo Ativo LP,123
+Shq participacoes agricolas ltda,1.2.1.06.02.000019,Mútuo Ativo LP,123
+PA GOLD MINERACAO S/A,1.2.2.09.01.000002,Mútuo Ativo LP,123
+PA GOLD MINERACAO S/A,1.1.8.01.99.000007,Mútuo Ativo LP,123
+OUTROS ATIVOS REALIZAVEIS A LONGO PRAZO,,0,
+DEPOSITOS JUDICIAIS,,0,
+Deposito judicial,1.2.1.07.01.000001,Depositos Judiciais,121
+Deposito judicial - itr,1.2.1.07.01.000002,Depositos Judiciais,121
+Pablo luiz neves irineu,1.2.1.07.01.000003,Depositos Judiciais,121
+OUTROS ATIVOS REALIZAVEIS A LONGO PRAZO,,0,
+Academia malhacao,1.2.1.07.03.000001,Outros Ativos Longo Prazo,129
+ZEOOS MINING LTDA,1.2.1.07.03.000004,Outros Ativos Longo Prazo,129
+INVESTIMENTOS,,0,
+PARTICIP. PERMANENTES SOCIEDADES-PAÍS,,0,
+CONTROLADAS E COLIGADAS,,0,
+Cial imobiliaria ltda,1.2.2.01.01.000002,Investimentos,124
+Afac - cial imobiliária ltda,1.2.2.01.01.000003,Investimentos,124
+Pier 21 cultura e lazer s/a,1.2.2.01.01.000004,Investimentos,124
+Águas do treme desenv. imob. spe ltda.,1.2.2.01.01.000006,Investimentos,124
+Querenca empresa rural agric. pec. ltda,1.2.2.01.01.000007,Investimentos,124
+Ágio - pier 21 cultura e lazer,1.2.2.01.01.000017,Investimentos,124
+Santa helena sementes ltda,1.2.2.01.01.000018,Investimentos,124
+Agio - aguas do treme ltda,1.2.2.01.01.000019,Investimentos,124
+Amortizacao agio pier 21,1.2.2.01.01.000020,Investimentos,124
+Amortizacao agio adt,1.2.2.01.01.000021,Investimentos,124
+Dividendos pier 21,1.2.2.01.01.000022,Investimentos,124
+Dividendos cial imobiliaria,1.2.2.01.01.000023,Investimentos,124
+Afac - águas do treme ltda,1.2.2.01.01.000026,Investimentos,124
+Afac - querenca empresa rural agric. pec,1.2.2.01.01.000027,Investimentos,124
+Afac - águas do treme desenv. imob. spe,1.2.2.01.01.000048,Investimentos,124
+Equivalencia - águas do treme desenv. im,1.2.2.01.01.000049,Investimentos,124
+Miniera assessoria s/a,1.2.2.01.01.000013,Investimentos,124
+INVESTIMENTO EM OUTRAS SOCIEDADES,,0,
+Epcix empreend imobiliarios,1.2.2.01.02.000002,Investimentos,124
+Edificio panorama,1.2.2.01.02.000003,Investimentos,124
+Dividendos edificio panorama,1.2.2.01.02.000007,Investimentos,124
+TERRENO,,0,
+TERRENO,,0,
+Ed comercial panorama sta lucia,1.2.2.07.01.000001,Imobilizado,127
+Ed graal  av contorno 8269 lojas 10 e 1,1.2.2.07.01.000002,Imobilizado,127
+Ed salazar lote 7 quarteirao 68 b estor,1.2.2.07.01.000004,Imobilizado,127
+Contorno - cidade jardim - lote 01 - qd,1.2.2.07.01.000051,Imobilizado,127
+Barão homem de melo 2251 - lotes 04 quad,1.2.2.07.01.000052,Imobilizado,127
+Barão homem de melo 2291 - lotes 05 e 06,1.2.2.07.01.000053,Imobilizado,127
+"Lotes 5,6,7,8,9 - rua nazare - sta lucia",1.2.2.07.01.000054,Imobilizado,127
+Contorno - cidade jardim - lotes quadra,1.2.2.07.01.000055,Imobilizado,127
+Predio - rua dos pampas 568,1.2.2.07.01.000056,Imobilizado,127
+Salao - ave raja gabalia - bh,1.2.2.07.01.000057,Imobilizado,127
+Terreno - bairro campo alegre- bh,1.2.2.07.01.000058,Imobilizado,127
+ED PARC ZODIACO S LUCAS COBERT N 2100,1.2.2.07.01.000009,Imobilizado,127
+FRANCISCO BHERING APARTAMENTO 101 AV,1.2.2.07.01.000010,Imobilizado,127
+IMOBILIZADO,,0,
+TERRENOS,,0,
+TERRENOS,,0,
+"Terreno - area 8047, 45 mts st lucia bh",1.2.3.01.01.000001,Imobilizado,127
+Terreno - fazenda (mtr),1.2.3.01.01.000003,Imobilizado,127
+Terrenos querença peccuaria emp. rural,1.2.3.01.01.000004,Imobilizado,127
+EDIFICAÇÕES E CONSTRUÇÕES,,0,
+EDIFICAÇÕES E CONSTRUÇÕES,,0,
+Reforma em andamento,1.2.3.02.01.000001,Imobilizado,127
+Ed parc zodiaco s lucas cobert n 2100,1.2.3.02.01.000002,Imobilizado,127
+Francisco bhering apartamento 101 av,1.2.3.02.01.000003,Imobilizado,127
+Edificações -  querença peccuaria,1.2.3.02.01.000013,Imobilizado,127
+INSTALAÇÕES INDUSTRIAIS,,0,
+INSTALAÇÕES INDUSTRIAIS,,0,
+Instalações industriais,1.2.3.03.01.000001,Imobilizado,127
+MAQUINAS E EQUIPAMENTOS MÓVEIS,,0,
+MAQUINAS E EQUIPAMENTOS MÓVEIS,,0,
+Maquinas e equipamentos móveis,1.2.3.04.01.000001,Imobilizado,127
+MAQUINAS E EQUIPAMENTOS FIXOS,,0,
+MAQUINAS E EQUIPAMENTOS FIXOS,,0,
+Maquinas e equipamentos fixos,1.2.3.05.01.000001,Imobilizado,127
+MÓVEIS E UTENSÍLIOS,,0,
+"MOVEIS, UTENSILIOS",,0,
+Moveis e utensilios,1.2.3.06.01.000001,Imobilizado,127
+COMPUTADORES E PERIFÉRICOS,,0,
+COMPUTADORES E PERIFERICOS,,0,
+Computadores e perifericos,1.2.3.07.01.000001,Imobilizado,127
+VEICULOS,,0,
+VEICULOS,,0,
+Veiculos leves,1.2.3.08.01.000001,Imobilizado,127
+Veículos pesados,1.2.3.08.01.000002,Imobilizado,127
+ATIVO BIOLÓGICO,,0,
+ATIVO BIOL. PROD-ORIGEM ANIMAL(CUSTO),,0,
+Brahman - matrizes,1.2.3.09.01.000001,Ativos Biológicos,125
+Brahman - touros,1.2.3.09.01.000002,Ativos Biológicos,125
+REBANHO BOVINO,1.2.3.09.01.000003,Ativos Biológicos,125
+ATIVO BIOL. PROD-ORIGEM ANIMAL(JUSTO),,,
+VARIACAO A VALOR JUSTO RLP,1.2.1.08.01.999999,Ativos Biológicos,125
+REBANHO BOVINO RLP,1.2.1.08.01.000001,Ativos Biológicos,125
+ANIMAIS DE TRABALHO,,0,
+Semoventes,1.2.3.09.10.000001,Ativos Biológicos,125
+IMOBILIZAÇÕES EM ANDAMENTO,,0,
+IMOBILIZACOES EM ANDAMENTO,,0,
+Imobilizacoes em andamento,1.2.3.14.01.000001,Imobilizado,127
+BENFEITORIAS EM IMOVEIS DE TERCEIROS,,0,
+BENFEITORIAS EM IMOVEIS DE TERCEIROS,,0,
+Benfeitorias em imoveis de terceiros,1.2.3.15.01.000001,Imobilizado,127
+OUTROS ATIVOS IMOBILIZADOS,,0,
+OUTROS IMOBILIZADOS,,0,
+Culturas e pastagens,1.2.3.16.01.000001,Ativos Biológicos,125
+Ferramentas - vr. da reavaliacao,1.2.3.16.01.000002,Imobilizado,127
+DEPRECIAÇÃO,,0,
+DEPRECIAÇÃO ACUMULADA,,0,
+Depreciação edificações e construções,1.2.3.98.01.000001,Imobilizado,127
+Depreciação instalações industriais,1.2.3.98.01.000002,Imobilizado,127
+Depreciação maquinas e equipamentos,1.2.3.98.01.000003,Imobilizado,127
+Depreciação móveis e utensílios,1.2.3.98.01.000004,Imobilizado,127
+Depreciação computadores e perifericos,1.2.3.98.01.000005,Imobilizado,127
+Depreciação veiculos,1.2.3.98.01.000006,Imobilizado,127
+Depreciação ativo bio.orig.animal(custo),1.2.3.98.01.000007,Ativos Biológicos,125
+Depreciacao ferramentas - reavaliacao,1.2.3.98.01.000008,Imobilizado,127
+DEPRECIACAO DE IMOVEIS,1.2.3.98.01.000009,Imobilizado,127
+EXAUSTÃO,,0,
+EXAUSTAO ACUMULADA,,0,
+Exaustão culturas e pastagens,1.2.3.99.01.000002,Ativos Biológicos,125
+Amortizacao em benfeit imoveis terceiros,1.2.3.99.01.000003,Imobilizado,127
+INTANGIVEL,,0,
+MARCAS E PATENTES,,0,
+MARCAS E PATENTES,,0,
+Direito uso softwares,1.2.4.02.01.000001,Intangível,128
+Dir. utdc(unid transf dir const)-graal,1.2.4.02.01.000002,Intangível,128
+Apto - hotel la page residencial,1.2.4.02.01.000003,Imobilizado,127
+DIREITO DE EXPLORAÇÃO E USO,,0,
+DIREITOS EXPLORAÇÃO RECURSOS MINERAIS,,0,
+Direitos exploração recursos minerais,1.2.4.02.02.000001,Intangível,128
+Direito  minerário dnpm 866672/2005,1.2.4.02.02.000002,Intangível,128
+Desenvolvimento projeto paraíba,1.2.4.02.02.000003,Intangível,128
+Desenvolvimento projeto terras nobres,1.2.4.02.02.000007,Intangível,128
+DESENVOLVIMENTO PROJETO NAZARENO,1.2.4.02.02.000008,Intangível,128
+DESENVOLVIMENTO PROJETO MINA DA BAIXADA,1.2.4.02.02.000009,Intangível,128
+AFAC,,,
+AFAC - MINIERA ASSESSORIA S/A,1.2.2.01.01.000051,Investimentos,124
+AMORTIZAÇÃO DO INTANGIVEL,,0,
+AMORTIZACAO DO INTANGIVEL,,0,
+Amortizacao direito uso softwares,1.2.4.04.01.000002,Intangível,128
+Amortizacao direito utdc,1.2.4.04.01.000004,Intangível,128
+PASSIVO,,0,
+PASSIVO CIRCULANTE,,0,
+OBRIGAÇÕES,,0,
+FORNECEDORES,,0,
+FORNEC-OPERAÇÕES PARTES NÃO RELAC.-PAÍS,,0,
+Big boy ltda me,2.1.1.01.01.000038,Fornecedores,211
+Cemig distribuicao s/a,2.1.1.01.01.000059,Fornecedores,211
+Figueiredo santos e adv associados -me,2.1.1.01.01.000106,Fornecedores,211
+Jr administracao e consultoria emp,2.1.1.01.01.000157,Fornecedores,211
+Mst medicina e segurança do trabalho ltd,2.1.1.01.01.000216,Fornecedores,211
+Orbe mineral consul e prest de serv ltda,2.1.1.01.01.000227,Fornecedores,211
+Organizacoes mangabeiras,2.1.1.01.01.000228,Fornecedores,211
+Sgs geosol laboratorios ltda (matriz),2.1.1.01.01.000272,Fornecedores,211
+Sreis servicos contabeis ltda - me,2.1.1.01.01.000280,Fornecedores,211
+Totvs sa,2.1.1.01.01.000295,Fornecedores,211
+Transete transportadora seguros,2.1.1.01.01.000297,Fornecedores,211
+William eduardo freire adv associados,2.1.1.01.01.000316,Fornecedores,211
+Energisa mato grosso dist de energia sa,2.1.1.01.01.000317,Fornecedores,211
+Mse geologos associados ltda,2.1.1.01.01.000345,Fornecedores,211
+J f l faria me,2.1.1.01.01.000358,Fornecedores,211
+M dos batista comercio me,2.1.1.01.01.000394,Fornecedores,211
+Ezequiel m de padua me,2.1.1.01.01.000485,Fornecedores,211
+Claro sa,2.1.1.01.01.000519,Fornecedores,211
+Assoc.bras.criad. zebu - abcz,2.1.1.01.01.000581,Fornecedores,211
+Coop. prod. sete lagoas,2.1.1.01.01.000585,Fornecedores,211
+Mercantil bastos ltda,2.1.1.01.01.000590,Fornecedores,211
+Enselli enrolamentos,2.1.1.01.01.000592,Fornecedores,211
+Acero  produtos agricolas ltda,2.1.1.01.01.000596,Fornecedores,211
+Antonio luiz veira,2.1.1.01.01.000602,Fornecedores,211
+Telemar norte leste sa,2.1.1.01.01.000605,Fornecedores,211
+Restaurante costa frança e cia ltda,2.1.1.01.01.000615,Fornecedores,211
+Dedetizar sist controle ambiental ltda,2.1.1.01.01.000617,Fornecedores,211
+Kraft papelaria e suprimentos ltda,2.1.1.01.01.000618,Fornecedores,211
+Engetronic servicos ltda,2.1.1.01.01.000622,Fornecedores,211
+Tnb prod para pecuaria ltda,2.1.1.01.01.000624,Fornecedores,211
+Sistemas de identificacao animal ltda,2.1.1.01.01.000627,Fornecedores,211
+White martins gases industriais ltda,2.1.1.01.01.000630,Fornecedores,211
+Usimeg ltda,2.1.1.01.01.000637,Fornecedores,211
+Biomate comercio de acessorios e insumos,2.1.1.01.01.000663,Fornecedores,211
+Unimed odonto s/a,2.1.1.01.01.000679,Fornecedores,211
+Fabricio teixeira rocha,2.1.1.01.01.000689,Fornecedores,211
+Minas rural agro negocios ltda,2.1.1.01.01.000724,Fornecedores,211
+Irmãos silva sa,2.1.1.01.01.000729,Fornecedores,211
+Dell computadores do brasil ltda,2.1.1.01.01.000757,Fornecedores,211
+Grafica campos reis ltda,2.1.1.01.01.000841,Fornecedores,211
+Assoc. dos criadores brahman do brasil,2.1.1.01.01.000862,Fornecedores,211
+Francis joubert verdolin,2.1.1.01.01.000875,Fornecedores,211
+Greenstone mineracao de dados ltda,2.1.1.01.01.000886,Fornecedores,211
+E. b. pinto e cia ltda - me,2.1.1.01.01.000890,Fornecedores,211
+Aparecido sisti,2.1.1.01.01.000941,Fornecedores,211
+Agromenezes com e representações lta epp,2.1.1.01.01.000954,Fornecedores,211
+Nex tecnologia em gestao da informacao l,2.1.1.01.01.000964,Fornecedores,211
+Andrea de souza cordeiro me,2.1.1.01.01.000983,Fornecedores,211
+Floriano correa da silva,2.1.1.01.01.001057,Fornecedores,211
+Maria do socorro leite da costa,2.1.1.01.01.001078,Fornecedores,211
+Dalgiza i. garcia barbosa,2.1.1.01.01.001081,Fornecedores,211
+Lemp locações e transportes ltda,2.1.1.01.01.001152,Fornecedores,211
+Pecplan abs importação e exportação ltda,2.1.1.01.01.001236,Fornecedores,211
+Acce capital ltda,2.1.1.01.01.001247,Fornecedores,211
+Industria e comercio de madeiras nortao,2.1.1.01.01.001250,Fornecedores,211
+Smg transportes e terraplanagem eireli,2.1.1.01.01.001269,Fornecedores,211
+C.r.b dos santos restaurante,2.1.1.01.01.001275,Fornecedores,211
+Dinamica serviços especializados ltda,2.1.1.01.01.001288,Fornecedores,211
+Giseli zulmira de oliveira lemos,2.1.1.01.01.001300,Fornecedores,211
+Sao luiz encomendas e cargas eireli,2.1.1.01.01.001317,Fornecedores,211
+P-b2b consultoria empresarial ltda,2.1.1.01.01.001321,Fornecedores,211
+Araujo fontes consult e neg imobiliarios,2.1.1.01.01.001338,Fornecedores,211
+Prodap ltda,2.1.1.01.01.001339,Fornecedores,211
+Novaes mallard sociedade de advogados,2.1.1.01.01.001354,Fornecedores,211
+Claudia aparecida de freitas,2.1.1.01.01.001356,Fornecedores,211
+Rmjm desenvolvimento mineral ltda,2.1.1.01.01.001365,Fornecedores,211
+Magalhaes & nunes ltda,2.1.1.01.01.001370,Fornecedores,211
+Assis auditoria e consultoria s/s,2.1.1.01.01.001461,Fornecedores,211
+Gcma consultoria e assessoria ltda.,2.1.1.01.01.001469,Fornecedores,211
+Metha consultoria e gestao administrativ,2.1.1.01.01.001474,Fornecedores,211
+Pericles aquino botelho epp,2.1.1.01.01.000348,Fornecedores,211
+Ivo martins dos sasntos junior,2.1.1.01.01.000531,Fornecedores,211
+Mecanica miranda eireli,2.1.1.01.01.000991,Fornecedores,211
+Clam engenharia ltda,2.1.1.01.01.001139,Fornecedores,211
+Peruzzo consultoria em mineracao ltda,2.1.1.01.01.001164,Fornecedores,211
+Nadialine transportes de cargas,2.1.1.01.01.001390,Fornecedores,211
+Aprovador sistemas ltda,2.1.1.01.01.001399,Fornecedores,211
+Mrz motos e cia ltda  me,2.1.1.01.01.000648,Fornecedores,211
+Criasol solucoes criativas em tecnologia,2.1.1.01.01.001402,Fornecedores,211
+Antonio flavio coelho 90788885634,2.1.1.01.01.001428,Fornecedores,211
+Nitrogenes - distrib. nitrogenio e prod,2.1.1.01.01.001483,Fornecedores,211
+Azul linhas aereas brasileiras s.a.,2.1.1.01.01.001485,Fornecedores,211
+Reformar construir pisos elavados - eireli,2.1.1.01.01.001489,Fornecedores,211
+Sistema de climatizacao ltda,2.1.1.01.01.001487,Fornecedores,211
+Dell computadores do brasil ltda,2.1.1.01.01.001484,Fornecedores,211
+Fornecedores nacionais,2.1.1.01.01.999999,Fornecedores,211
+Nexxera tecnologia e servicos,2.1.1.01.01.001495,Fornecedores,211
+Coogavepe- coop. dos garimpeiros do vale,2.1.1.01.01.001496,Fornecedores,211
+OBRIGACOES TRABALHISTAS,,0,
+SALARIOS,,0,
+Salarios a pagar,2.1.1.02.01.000001,Obrigações Trabalhistas,212
+Pensao alimenticia,2.1.1.02.01.000004,Obrigações Trabalhistas,212
+ENCARGOS SOCIAIS E TRIBUTARIOS,,0,
+ENCARGOS TRIBUTARIOS,,0,
+Issqn retido a pagar,2.1.1.03.01.000002,Obrigações Tributárias,214
+Iptu a pagar,2.1.1.03.01.000003,Obrigações Tributárias,214
+Icms a pagar,2.1.1.03.01.000021,Obrigações Tributárias,214
+Icms diferencial de aliquota,2.1.1.03.01.000023,Obrigações Tributárias,214
+Irrf a pagar - autonomos,2.1.1.03.01.000041,Obrigações Tributárias,214
+Irrf a pagar - salarios,2.1.1.03.01.000042,Obrigações Tributárias,214
+Irrf a pagar - retencoes fornecedores,2.1.1.03.01.000043,Obrigações Tributárias,214
+Irpj a pagar,2.1.1.03.01.000044,Obrigações Tributárias,214
+Csll a pagar,2.1.1.03.01.000045,Obrigações Tributárias,214
+Cofins a pagar,2.1.1.03.01.000046,Obrigações Tributárias,214
+Pis a pagar,2.1.1.03.01.000048,Obrigações Tributárias,214
+Pis/cofins/csll retidos a pagar,2.1.1.03.01.000050,Obrigações Tributárias,214
+Inss retido a pagar,2.1.1.03.01.000053,Obrigações Tributárias,214
+ENCARGOS SOCIAIS,,0,
+Inss a recolher,2.1.1.03.02.000001,Obrigações Sociais,213
+Fgts a recolher,2.1.1.03.02.000002,Obrigações Sociais,213
+PROVISÕES,,0,
+PROVISOES TRABALHISTAS,,0,
+Provisao de ferias,2.1.1.04.01.000001,Obrigações Trabalhistas,212
+Provisao fgts ferias,2.1.1.04.01.000002,Obrigações Trabalhistas,212
+Provisao inss s/ ferias,2.1.1.04.01.000003,Obrigações Trabalhistas,212
+Provisao 13 salario,2.1.1.04.01.000004,Obrigações Trabalhistas,212
+Provisao fgts 13 salario,2.1.1.04.01.000005,Obrigações Trabalhistas,212
+Provisao inss 13 salario,2.1.1.04.01.000006,Obrigações Trabalhistas,212
+IMPOSTOS DIFERIDOS A RECOLHER,,0,
+IMPOSTOS DIFERIDOS A RECOLHER,,0,
+Irpj diferido,2.1.1.05.01.000001,Impostos Diferidos,215
+Csll diferido,2.1.1.05.01.000002,Impostos Diferidos,215
+Cofins diferido,2.1.1.05.01.000003,Impostos Diferidos,215
+Pis diferido,2.1.1.05.01.000004,Impostos Diferidos,215
+EMPRESTIMOS E FINANCIAMENTOS,,0,
+EMPRÉSTIMOS BANCÁRIOS E FINANCIAM-PAÍS,,0,
+EMPRESTIMOS E FINANC-QUERENCA PECCUARIA,,0,
+Emprestimo finame cef- cc 00003832-9,2.1.2.01.04.000001,Empréstimos e Financiamentos CP,216
+Encargos financ.transcorrer (finame cef),2.1.2.01.04.000002,Empréstimos e Financiamentos CP,216
+Emprestimo rural bb - contrato 40/011208,2.1.2.01.04.000005,Empréstimos e Financiamentos CP,216
+Encargos financ.transcorrer bb emp rural,2.1.2.01.04.000006,Empréstimos e Financiamentos CP,216
+Emprestimo rural bb - contrato 40/021548,2.1.2.01.04.000009,Empréstimos e Financiamentos CP,216
+Emprestimo rural bb- contrato 40/02258-7,2.1.2.01.04.000010,Empréstimos e Financiamentos CP,216
+Emprestimos cedula rural cef – cc 3832-9,2.1.2.01.04.000007,Empréstimos e Financiamentos CP,216
+Emprestimo bradesco cap. g. 3262142 - cp,2.1.2.01.04.000011,Empréstimos e Financiamentos CP,216
+ENCARGOS BRADESCO CP. G. 3262142 - CP,2.1.2.01.04.000012,Empréstimos e Financiamentos CP,216
+ENCARGOS BRADESCO CP. G. 3262142 - LP,2.2.1.01.04.000012,Empréstimos e Financiamentos CP,216
+EMPRÉSTIMOS BANCÁRIOS E FINANCIAMENTOS - SÃO JOAQUIM,,,
+EMPRESTIMO CAPITAL DE GIRO SANTANDER,2.1.2.01.01.000001,Empréstimos e Financiamentos CP,216
+ENCARGOS EMP. TRANSCORRER SANTANDER,2.1.2.01.01.000002,Empréstimos e Financiamentos CP,216
+MÚTUOS PARTES RELACIONADAS,,0,
+MÚTUOS PARTES RELACIONADAS - NO PAÍS,,0,
+MÚTUOS OBTIDOS COM ACIONISTAS,,0,
+São joaquim holding empreedimentos ltda,2.1.3.01.01.000006,Mútuo Passivo CP,217
+MÚTUOS OBTIDOS COM EMPRESAS LIGADAS,,0,
+São joaquim holding empreedimentos ltda.,2.1.3.01.02.000001,Mútuo Passivo CP,217
+Sjk participações ltda,2.1.3.01.02.000010,Mútuo Passivo CP,217
+Shq participacoes agricolas ltda,2.1.3.01.02.000011,Mútuo Passivo CP,217
+Genesis Participacoes Ltda,2.1.3.01.02.000012,Mútuo Passivo CP,217
+Conectar participacoes sa,2.1.3.01.02.000002,Mútuo Passivo CP,217
+Miniera assessoria ltda,2.1.3.01.02.000004,Mútuo Passivo CP,217
+Mave mineração s/a,2.1.3.01.02.000008,Mútuo Passivo CP,217
+ADIANTAMENTOS,,0,
+ADIANTAMENTO DE CLIENTES - NO PAÍS,,0,
+ADIANTAMENTO DE CLIENTES - NO PAÍS,,0,
+Eustaquio soares maia,2.1.5.01.01.000004,Outros Passivos Circulantes,219
+Rangel gontijo de queiroz,2.1.5.01.01.000006,Outros Passivos Circulantes,219
+SERVDRILL PERFURACAO E SONDAGEM LTDA,2.1.5.01.01.000025,Outros Passivos Circulantes,219
+OUTRAS OBRIGAÇÕES DE CURTO PRAZO,,0,
+OUTRAS OBRIGAÇÕES DE CURTO PRAZO,,0,
+SEGUROS A PAGAR,,0,
+Seguros a pagar,2.1.8.99.01.000001,Outros Passivos Circulantes,219
+CONTAS CORRENTES CREDORAS,,0,
+Santa helena sementes,2.1.8.99.03.000001,Mútuo Passivo CP,217
+OUTRAS OBRIGAÇÕES DE CURTO PRAZO,,0,
+Dividendos recebidos antecipadamente,2.1.8.99.99.000002,Outros Passivos Circulantes,219
+Outras obrigações de curto prazo,2.1.8.99.99.999999,Outros Passivos Circulantes,219
+PASSIVO NÃO-CIRCULANTE,,0,
+EMPRÉSTIMOS E FINANCIAMENTOS - LP,,0,
+EMPRÉSTIMOS BANCÁRIOS E FINANC.-PAÍS -LP,,0,
+EMPRESTIMOS E FINANC -QUERENCA PECCUARIA,,0,
+Emprestimo finame cef- cc 00003832-9,2.2.1.01.04.000001,Empréstimos e Financiamentos LP,221
+Encargos financ.transcorrer (finame cef),2.2.1.01.04.000002,Empréstimos e Financiamentos LP,221
+Emprestimo rural bb contrato  40/011208,2.2.1.01.04.000005,Empréstimos e Financiamentos LP,221
+Encargos financ.transcorrer bb emp rural,2.2.1.01.04.000006,Empréstimos e Financiamentos LP,221
+Emprestimo rural bb contrato 40/021548,2.2.1.01.04.000009,Empréstimos e Financiamentos LP,221
+Emprestimo rural bb- contrato 40/02258-7,2.2.1.01.04.000010,Empréstimos e Financiamentos LP,221
+EMPRESTIMO BRADESCO CAP. G. 3262142 - LP,2.2.1.01.04.000011,Empréstimos e Financiamentos LP,221
+EMPRESTIMOS E FINANC-SÃO JOAQUIM HOLDING,,,
+EMPRESTIMO CAPITAL DE GIRO SANTANDER,2.2.1.01.01.000002,Empréstimos e Financiamentos LP,221
+ENCARGOS EMP. TRANSCORRER SANTANDER,2.2.1.01.01.000003,Empréstimos e Financiamentos LP,221
+MÚTUOS PARTES RELACIONADAS - LP,,0,
+MÚTUOS PARTES RELACIONADAS-PAÍS - LP,,0,
+MÚTUOS OBTIDOS COM ACIONISTAS - LP,,0,
+Rodrigo werneck gutierrez,2.2.2.01.01.000001,Mútuo Passivo LP,222
+Henrique werneck gutierrez,2.2.2.01.01.000002,Mútuo Passivo LP,222
+MÚTUOS OBTIDOS COM EMPRESAS LIGADAS - LP,,0,
+Santa helena sementes,2.2.2.01.02.000003,Mútuo Passivo LP,222
+GENESIS MINING PARCIPACOES S/A,2.1.8.99.99.000004,Mútuo Passivo LP,222
+MAVE MINERACAO S/A,2.1.8.99.99.000005,Mútuo Passivo LP,222
+PROVISOES PARA CONTINGENCIAS,,0,
+PROVISOES PARA CONTINGENCIAS,,0,
+PROVISOES PARA CONTINGENCIAS,,0,
+Provisoes para contingencias,2.2.3.01.01.000001,Contingencias,223
+OUTRAS OBRIGACOES DE LONGO PRAZO,,0,
+OUTRAS OBRIGACOES DE LONGO PRAZO,,0,
+DEPOSITOS EM GARANTIA,,0,
+Endolatina comercio e representacoes ltd,2.2.8.99.01.000001,Outros Passivos Circulantes,219
+OUTRAS PROVISOES,,0,
+Provisoes para perdas em investimentos,2.2.8.99.02.000001,Contingencias,223
+COOGAVEPE- COOP. DOS GARIMPEIROS DO VALE,,0,
+Coogavepe- coop. dos garimpeiros do vale,2.2.8.99.04.000003,Fornecedores,211
+PATRIMONIO LIQUIDO,,0,
+CAPITAL SOCIAL,,0,
+ACIONISTAS,,0,
+CAPITAL SUBSCRITO,,0,
+Henrique werneck gutierrez,2.3.1.01.01.000001,Capital Social,231
+Rodrigo werneck gutierrez,2.3.1.01.01.000002,Capital Social,231
+Jercineide pires de castro,2.3.1.01.01.000003,Capital Social,231
+Pedro berto da silva,2.3.1.01.01.000004,Capital Social,231
+São joaquim holding empreedimentos ltda.,2.3.1.01.01.000006,Capital Social,231
+Moisés fernandes campos,2.3.1.01.01.000009,Capital Social,231
+Fundo investim. participações-genesis,2.3.1.01.01.000012,Capital Social,231
+Pedro ribeiro de oliveira neto,2.3.1.01.01.000014,Capital Social,231
+Tenax consultoria e participações ltda,2.3.1.01.01.000016,Capital Social,231
+Fernando álvares da silva,2.3.1.01.01.000018,Capital Social,231
+Fabiano de alvarince,2.3.1.01.01.000019,Capital Social,231
+Magno de oliveira junior,2.3.1.01.01.000020,Capital Social,231
+Prime star brasil mineração ltda,2.3.1.01.01.000021,Capital Social,231
+Mozart kraemer litwinski,2.3.1.01.01.000022,Capital Social,231
+Edem empresa desenv mineração part ltda,2.3.1.01.01.000023,Capital Social,231
+Bocaina empreendimentos e part. s.a.,2.3.1.01.01.000024,Capital Social,231
+Shq participações agrícolas s.a.,2.3.1.01.01.000007,Capital Social,231
+Valmir batta,2.3.1.01.01.000028,Capital Social,231
+Genesis mining participacoes ltda,2.3.1.01.01.000031,Capital Social,231
+CAPITAL A INTEGRALIZAR,,0,
+Henrique werneck gutierrez,2.3.1.01.02.000001,Capital Social,231
+Rodrigo werneck gutierrez,2.3.1.01.02.000002,Capital Social,231
+Fundo investim. participações-genesis,2.3.1.01.02.000012,Capital Social,231
+Pedro ribeiro de oliveira neto,2.3.1.01.02.000014,Capital Social,231
+Tenax consultoria e participações ltda,2.3.1.01.02.000016,Capital Social,231
+Bocaina empreendimentos e part. s.a.,2.3.1.01.02.000024,Capital Social,231
+ADIANTAMENTO P/FUTURO AUMENTO DE CAPITAL,,0,
+ADIANTAMENTO P/FUTURO AUMENTO DE CAPITAL,,0,
+Afac - henrique werneck gutierrez,2.3.1.02.01.000001,AFAC,232
+Afac - rodrigo werneck gutierrez,2.3.1.02.01.000002,AFAC,232
+Afac - são joaquim holding empreend ltda,2.3.1.02.01.000006,AFAC,232
+Afac - fundo investim. part. - genesis,2.3.1.02.01.000011,AFAC,232
+Afac - prime star brasil mineração ltda,2.3.1.02.01.000020,AFAC,232
+AFAC - GENESIS MINING PARTICIPACOES LTDA,2.3.1.02.01.000031,AFAC,232
+RESERVAS,,0,
+RESERVAS DE CAPITAL,,0,
+RESERVA DE AGIO,,0,
+Agio  (subscrição de ações),2.3.2.01.01.000001,Reserva de Capital,233
+RESERVA DE CAPITAL,,0,
+Reserva de capital,2.3.2.01.02.000001,Reserva de Capital,233
+Reserva de capital - mais valia ativo,2.3.2.01.02.000002,Reserva de Capital,233
+RESERVAS DE LUCROS,,0,
+RESERVA LEGAL,,0,
+Reserva legal,2.3.2.02.01.000001,Reserva Legal,234
+RESERVA LUCROS A REALIZAR,,0,
+Reserva lucros a realizar,2.3.2.02.04.000001,Reserva de Capital,233
+RESERVAS PARA EXPANSAO E INVESTIMENTOS,,0,
+Reservas para expansao e investimentos,2.3.2.02.05.000001,Reserva de Capital,233
+AJUSTES DE AVALIAÇÃO PATRIMONIAL,,0,
+AJUSTES DE AVALIAÇÃO PATRIMONIAL,,0,
+RES.ABRANGENTE AJUSTE DE AVALIAÇAO PATR,,0,
+Res.abrangente ajuste de avaliaçao patr,2.3.3.01.01.000001,Ajustes de Avaliação Patrimônial,236
+LUCROS/PREJUIZOS ACUMULADOS,,0,
+LUCROS/PREJUIZOS ACUMULADOS,,0,
+LUCROS/PREJUIZOS ACUMULADOS,,0,
+Lucros/prejuízos acumulados,2.3.5.01.01.000001,Lucros Acumulados,235
+Resultado do exercício,2.3.5.01.01.000004,Lucros Acumulados,235
+Lucros distribuidos henrique gutierrez,2.3.5.01.01.000005,Lucros Acumulados,235
+Lucros distribuidos rodrigo gutierrez,2.3.5.01.01.000006,Lucros Acumulados,235
+RESULTADO DO EXERCÍCIO,,0,
+RECEITAS,,0,
+RECEITA BRUTA DE VENDAS E PREST SERVICOS,,0,
+RECEITA MERCADO INTERNO,,0,
+RECEITA DE VENDAS DE PRODUTOS,,0,
+RECEITA DE VENDAS DA ATIVIDADE RURAL,,0,
+Bezerras,3.1.1.01.01.000001,Receita de Venda de Produtos,31
+Bezerros,3.1.1.01.01.000002,Receita de Venda de Produtos,31
+Novilhas,3.1.1.01.01.000003,Receita de Venda de Produtos,31
+Novilhos,3.1.1.01.01.000004,Receita de Venda de Produtos,31
+Fêmeas para abate (vacas),3.1.1.01.01.000005,Receita de Venda de Produtos,31
+Machos para abate (bois),3.1.1.01.01.000006,Receita de Venda de Produtos,31
+Descarte gado - machos,3.1.1.01.01.000008,Receita de Venda de Produtos,31
+Descarte gado - fêmeas,3.1.1.01.01.000009,Receita de Venda de Produtos,31
+Embriões (bovinos),3.1.1.01.01.000012,Receita de Venda de Produtos,31
+Sêmen (bovinos),3.1.1.01.01.000013,Receita de Venda de Produtos,31
+Milho,3.1.1.01.01.000014,Receita de Venda de Produtos,31
+Feijão,3.1.1.01.01.000016,Receita de Venda de Produtos,31
+Receita bruta de vendas - intercompany,3.1.1.01.01.999999,Receita de Venda de Produtos,31
+RECEITA DE PRESTAÇÃO DE SERVICOS,,0,
+RECEITA DE SERVIÇOS DA ATIVIDADE RURAL,,0,
+Estadias,3.1.1.03.02.000002,Receita de Prestação de Serviços,32
+RECEITA LOCAÇÃO BENS MÓVEIS E IMÓVEIS,,0,
+RECEITA LOCAÇÃO BENS MÓVEIS E IMÓVEIS,,0,
+Receita de locação de imóveis,3.1.1.04.01.000001,Receita de Prestação de Serviços,32
+Receita de venda de imóveis,3.1.1.06.01.000001,Receita de Venda de Produtos,31
+RECEITA DE VENDA UNIDAD. IMOBILIÁRIAS,,0,
+RECEITA DE VENDA UNIDAD. IMOBILIÁRIAS,,0,
+Receita de venda de terrenos,3.1.1.06.01.000002,Receita de Venda de Produtos,31
+DEDUÇÕES DA RECEITA BRUTA,,0,
+DESCONTOS INCONDICIONAIS E ABATIMENTOS,,0,
+DESCONTOS INCONDICIONAIS E ABATIMENTOS,,0,
+Descontos incondicionais e abatimentos,3.1.3.02.01.000001,Descontos e Abatimentos,342
+TRIBUTOS INCIDENTES RECEITA BRUTA,,0,
+TRIBUTOS S/ RECEITA BRUTA-MERC. INTERNO,,0,
+Icms s/ faturamento,3.1.3.03.01.000002,Impostos sobre Vendas,341
+Cofins s/ faturamento,3.1.3.03.01.000003,Lucro (Prejuízo) do Período/Exercício,341
+Pis/pasep s/ faturamento,3.1.3.03.01.000004,Lucro (Prejuízo) do Período/Exercício,341
+Inss s/ faturamento,3.1.3.03.01.000005,Lucro (Prejuízo) do Período/Exercício,341
+Iss s/ faturamento,3.1.3.03.01.000001,Lucro (Prejuízo) do Período/Exercício,341
+OUTRAS RECEITAS OPERACIONAIS,,0,
+OUTRAS RECEITAS OPERACIONAIS,,0,
+RECEITAS FINANCEIRAS,,0,
+Rendimentos sobre aplicações financeiras,3.1.9.01.01.000001,Resultado Financeiro,91
+Juros ativos,3.1.9.01.01.000002,Resultado Financeiro,91
+Descontos obtidos,3.1.9.01.01.000003,Resultado Financeiro,91
+VARIAÇÕES MONETÁRIAS,,0,
+Variações monetárias ativas,3.1.9.01.02.000001,Resultado Financeiro,91
+Variações cambiais ativas,3.1.9.01.02.000002,Resultado Financeiro,91
+OUTRAS RECEITAS OPERACIONAIS,,0,
+Receita na alienação de imobilizado,3.1.9.01.99.000002,Receitas e Despesas Não Recorrentes,73
+Reversão de perdas estimadas impairment,3.1.9.01.99.000006,Receitas e Despesas Não Recorrentes,73
+Outras receitas operacionais,3.1.9.01.99.999999,Outras Receitas Operacionais,33
+Receitas nao recorrentes,3.1.9.01.99.000007,Receitas e Despesas Não Recorrentes,73
+Recuperação de créditos incobráveis,3.1.9.01.99.000004,Receitas e Despesas Não Recorrentes,73
+Reversão dos saldos das provisões,3.1.9.01.99.000003,Provisões,62
+CUSTOS E DESPESAS,,0,
+CUSTOS,,0,
+CUSTOS,,0,
+CUSTOS,,0,
+INSUMOS,,0,
+Nutricionais,4.1.1.01.02.000002,Insumos,41
+Nitrogênio,4.1.1.01.02.000006,Insumos,41
+Meios de cultivo,4.1.1.01.02.000007,Insumos,41
+Materiais laboratoriais,4.1.1.01.02.000008,Insumos,41
+Gases industriais,4.1.1.01.02.000009,Insumos,41
+Material aspiração,4.1.1.01.02.000010,Insumos,41
+Brincos,4.1.1.01.02.000011,Insumos,41
+Medicamentos e materiais  p/ pecuária,4.1.1.01.02.000015,Insumos,41
+Medicamento veterinario prot reprodutivo,4.1.1.01.02.000016,Insumos,41
+Medicamento veterinario prot.sanitario,4.1.1.01.02.000017,Insumos,41
+AGRICULTURA,4.1.1.01.02.000014,Insumos,41
+MÃO DE OBRA,,0,
+Salário,4.1.1.01.03.000001,Pessoal,42
+Adicional insalubridade,4.1.1.01.03.000004,Pessoal,42
+Adicional periculosidade,4.1.1.01.03.000005,Pessoal,42
+Férias,4.1.1.01.03.000007,Pessoal,42
+13o. salário,4.1.1.01.03.000008,Pessoal,42
+Inss,4.1.1.01.03.000009,Pessoal,42
+Fgts,4.1.1.01.03.000010,Pessoal,42
+Seguro de vida,4.1.1.01.03.000011,Pessoal,42
+Assistencia medica e odontológica,4.1.1.01.03.000014,Pessoal,42
+Transporte e condução,4.1.1.01.03.000015,Pessoal,42
+Vale refeição,4.1.1.01.03.000016,Pessoal,42
+Indenizações trabalhistas,4.1.1.01.03.000018,Pessoal,42
+Uniformes e epi,4.1.1.01.03.000019,Pessoal,42
+Medicina e segurança do trabalho,4.1.1.01.03.000020,Pessoal,42
+Plano de saude - mensalidade,4.1.1.01.03.000024,Pessoal,42
+Plano de saude - odontologico,4.1.1.01.03.000025,Pessoal,42
+SERVIÇOS DE TERCEIROS,,0,
+Motoboy (entregas expressas),4.1.1.01.04.000002,Serviços de Terceiros,43
+Locação de equipamentos com operador,4.1.1.01.04.000006,Serviços de Terceiros,43
+Abcz / acbb / amb,4.1.1.01.04.000007,Serviços de Terceiros,43
+Ima,4.1.1.01.04.000008,Serviços de Terceiros,43
+CONSULTORIA TÉCNICA,,0,
+"Tipagem sanguinea , exames e genotipagem",4.1.1.01.05.000001,Serviços de Terceiros,43
+Aspiração/te,4.1.1.01.05.000003,Serviços de Terceiros,43
+Consultoria téc nutrição animal-agronom,4.1.1.01.05.000005,Serviços de Terceiros,43
+CUSTOS C/ MANUTENÇÃO,,0,
+Edificações e construções,4.1.1.01.06.000002,Manutenção,44
+Maquinas e equipamentos móveis,4.1.1.01.06.000005,Manutenção,44
+Maquinas e equipamentos fixos,4.1.1.01.06.000006,Manutenção,44
+Veiculos leves,4.1.1.01.06.000010,Manutenção,44
+Pastagens,4.1.1.01.06.000012,Manutenção,44
+CUSTOS C/ FRETE,,0,
+Fretes e carretos (externos),4.1.1.01.07.000001,Fretes e Transportes,46
+Fretes e carretos (internos),4.1.1.01.07.000002,Fretes e Transportes,46
+CUSTOS GERAIS,,0,
+Energia elétrica,4.1.1.01.08.000002,Concessionárias,45
+Telefonia fixa,4.1.1.01.08.000004,Concessionárias,45
+Telefonia móvel,4.1.1.01.08.000005,Concessionárias,45
+Refeições e lanches,4.1.1.01.08.000007,Concessionárias,45
+Conservação e limpeza,4.1.1.01.08.000008,Serviços de Terceiros,43
+Viagens e estadias,4.1.1.01.08.000009,Pessoal,42
+"Condução, pedagios e estacionamento",4.1.1.01.08.000010,Fretes e Transportes,46
+Combustíveis e lubrificantes,4.1.1.01.08.000011,Fretes e Transportes,46
+Bens de pequeno valor,4.1.1.01.08.000012,Outros Custos,49
+"Despesas cartoriais, taxas e emolumentos",4.1.1.01.08.000015,Outros Custos,49
+Royalties,4.1.1.01.08.000019,Outros Custos,49
+Ipva/seguro obrigatorio/licenciamento,4.1.1.01.08.000023,Fretes e Transportes,46
+Locação de maquinas e equipamentos,4.1.1.01.08.000013,Serviços de Terceiros,43
+Locação de imóveis,4.1.1.01.08.000024,Serviços de Terceiros,43
+Itr (custo),4.1.1.01.08.000026,ITR,48
+CUSTOS DOS SERVIÇOS PRESTADOS,,0,
+CUSTOS DOS SERVIÇOS PRESTADOS,,0,
+CUSTOS DOS SERVIÇOS PRESTADOS,,0,
+CUSTOS DOS SERVIÇOS PRESTADOS,,0,
+Serviços terceiros,4.4.1.01.01.000003,Serviços de Terceiros,43
+CUSTOS UNIDADES IMOBILIÁRIAS VENDIDAS,,0,
+CUSTOS UNIDADES IMOBILIÁRIAS VENDIDAS,,0,
+CUSTOS UNIDADES IMOBILIÁRIAS VENDIDAS,,0,
+CUSTOS UNIDADES IMOBILIÁRIAS VENDIDAS,,0,
+Custos unidades imobiliárias vendidas,4.5.1.01.01.000001,Custo dos Imóveis Vendidos,47
+DESPESAS,,0,
+DESPESAS,,0,
+DESPESAS GERAIS E ADMINISTRATIVAS,,0,
+DESPESAS ADMINISTRATIVAS,,0,
+Agua e esgoto,4.6.1.01.01.000001,Concessionárias (Desp),56
+Energia eletrica,4.6.1.01.01.000002,Concessionárias (Desp),56
+Telefonia fixa,4.6.1.01.01.000003,Concessionárias (Desp),56
+Telefonia móvel,4.6.1.01.01.000004,Concessionárias (Desp),56
+Internet,4.6.1.01.01.000005,Concessionárias (Desp),56
+Locação de imoveis,4.6.1.01.01.000006,Serviços Contratados,54
+Locação de veiculos,4.6.1.01.01.000007,Serviços Contratados,54
+"Assinatura periodicos,jornais e revistas",4.6.1.01.01.000008,Outras Despesas,59
+"Condução, pedagios e estacionamento",4.6.1.01.01.000009,Outras Despesas,59
+"Copias, encadernacoes e impressoes",4.6.1.01.01.000010,Outras Despesas,59
+Correios,4.6.1.01.01.000011,Outras Despesas,59
+Viagens e estadias,4.6.1.01.01.000012,Despesas com Pessoal,51
+Material de escritorio,4.6.1.01.01.000013,Outras Despesas,59
+Conservação e limpeza,4.6.1.01.01.000014,Serviços Contratados,54
+Materiais de informatica,4.6.1.01.01.000015,Tecnologia da Informação,55
+Refeições e lanches,4.6.1.01.01.000016,Outras Despesas,59
+Confraternizações,4.6.1.01.01.000017,Despesas com Pessoal,51
+Bens de pequeno valor,4.6.1.01.01.000018,Outras Despesas,59
+Alojamento,4.6.1.01.01.000019,Despesas com Pessoal,51
+Seguros,4.6.1.01.01.000020,Outras Despesas,59
+Brindes e doações,4.6.1.01.01.000022,Outras Despesas,59
+"Despesas cartoriais, taxas e emolumentos",4.6.1.01.01.000023,Outras Despesas,59
+Condominio,4.6.1.01.01.000024,Despesas de Locação de Imóveis,58
+Publicações legais,4.6.1.01.01.000025,Outras Despesas,59
+Combustíveis e lubrificantes,4.6.1.01.01.000026,Outras Despesas,59
+Contribuições para entidade de classe,4.6.1.01.01.000027,Despesas com Pessoal,51
+Despesas médicas,4.6.1.01.01.000028,Despesas com Pessoal,51
+Depreciação,4.6.1.01.01.000029,Depreciação & Amortização,82
+Amortização,4.6.1.01.01.000030,Depreciação & Amortização,82
+Locação de máquinas e equip - escritório,4.6.1.01.01.000033,Outras Despesas,59
+Despesas de reestruturacao,4.6.1.01.01.000034,Despesas de Reestruturação,72
+Reclassificação de despesas - adm,4.6.1.01.01.999996,Outras Despesas,59
+MAO DE OBRA,,0,
+Salário,4.6.1.01.02.000001,Despesas com Pessoal,51
+Salário - hora-extra,4.6.1.01.02.000002,Despesas com Pessoal,51
+Adicional noturno,4.6.1.01.02.000003,Despesas com Pessoal,51
+Adicional insalubridade,4.6.1.01.02.000004,Despesas com Pessoal,51
+Adicional periculosidade,4.6.1.01.02.000005,Despesas com Pessoal,51
+Férias,4.6.1.01.02.000007,Despesas com Pessoal,51
+13o. salário,4.6.1.01.02.000008,Despesas com Pessoal,51
+Inss,4.6.1.01.02.000009,Despesas com Pessoal,51
+Fgts,4.6.1.01.02.000010,Despesas com Pessoal,51
+Seguro de vida,4.6.1.01.02.000012,Despesas com Pessoal,51
+Assistencia medica e odontológica,4.6.1.01.02.000014,Despesas com Pessoal,51
+Transporte e condução,4.6.1.01.02.000015,Despesas com Pessoal,51
+Vale refeição,4.6.1.01.02.000016,Despesas com Pessoal,51
+Alimentação (cesta básica),4.6.1.01.02.000017,Despesas com Pessoal,51
+Indenizações trabalhistas,4.6.1.01.02.000018,Despesas com Pessoal,51
+Uniformes e epi,4.6.1.01.02.000019,Despesas com Pessoal,51
+Medicina e segurança do trabalho,4.6.1.01.02.000020,Despesas com Pessoal,51
+Cursos e treinamentos,4.6.1.01.02.000021,Despesas com Pessoal,51
+Ajuda de viagem,4.6.1.01.02.000024,Despesas com Pessoal,51
+AVISO PREVIO INDENIZADO,4.6.1.01.02.000025,Despesas com Pessoal,51
+Plano de saude - mensalidade,4.6.1.01.02.000027,Despesas com Pessoal,51
+Plano de saude - coparticipaçao,4.6.1.01.02.000028,Despesas com Pessoal,51
+Previdencia social s/ferias - inss,4.6.1.01.02.000034,Despesas com Pessoal,51
+Previdencia social s/13º salario - inss,4.6.1.01.02.000035,Despesas com Pessoal,51
+Fgts s/ferias,4.6.1.01.02.000038,Despesas com Pessoal,51
+Fgts s/13º salario,4.6.1.01.02.000039,Despesas com Pessoal,51
+Reclassificação de despesas - mo,4.6.1.01.02.999996,Despesas com Pessoal,51
+Anuenio,4.6.1.01.02.000045,Despesas com Pessoal,51
+Plano de saude - odontologico,4.6.1.01.02.000043,Despesas com Pessoal,51
+Fgts art.22,4.6.1.01.02.000011,Despesas com Pessoal,51
+GRATIFICAÇÕES,4.6.1.01.02.000006,Despesas com Pessoal,51
+SERVIÇOS DE TERCEIROS,,0,
+Consultoria juridica,4.6.1.01.03.000001,Serviços Contratados,54
+Consultoria contabil e tributaria,4.6.1.01.03.000002,Serviços Contratados,54
+Consultoria gestao,4.6.1.01.03.000003,Consultoria de Gestão,53
+Consultoria de investimentos,4.6.1.01.03.000004,Serviços Contratados,54
+Consultoria overhead,4.6.1.01.03.000005,Serviços Contratados,54
+Serviços de informatica,4.6.1.01.03.000006,Serviços Contratados,54
+Segurança patrimonial,4.6.1.01.03.000008,Serviços Contratados,54
+Recrutamento e seleção,4.6.1.01.03.000009,Serviços Contratados,54
+Seguro de vida,4.6.1.01.03.000012,Outras Despesas,59
+Motoboy (entregas expressas),4.6.1.01.03.000013,Serviços Contratados,54
+Serviço apoio técnico e administrativo,4.6.1.01.03.000014,Serviços Contratados,54
+Auditoria contábil,4.6.1.01.03.000015,Serviços Contratados,54
+DESENVOLVIMENTO DE PROJETOS,4.1.1.01.05.000006,Serviços Contratados,54
+CONSULTORIA TÉCNICA,,0,
+Meio ambiente,4.6.1.01.04.000002,Serviços Contratados,54
+Desenvolvimento de projetos,4.6.1.01.04.000001,Serviços Contratados,54
+Beneficiamento mineral,4.6.1.01.04.000006,Serviços Contratados,54
+Mineração,4.6.1.01.04.000007,Serviços Contratados,54
+Estudos de viabilidade,4.6.1.01.04.000008,Serviços Contratados,54
+Seguro de vida,4.6.1.01.04.000009,Serviços Contratados,54
+Consultoria em mina,4.6.1.01.04.000010,Serviços Contratados,54
+Geologia,4.6.1.01.04.000011,Serviços Contratados,54
+Assessoria licenciamento ambiental,4.6.1.01.04.000012,Serviços Contratados,54
+DESPESAS C/ MANUTENÇÃO,,0,
+Terrenos,4.6.1.01.05.000001,Despesas com Manutenção,57
+Edificações e construções,4.6.1.01.05.000002,Despesas com Manutenção,57
+Maquinas e equipamentos móveis,4.6.1.01.05.000004,Despesas com Manutenção,57
+Maquinas e equipamentos fixos,4.6.1.01.05.000005,Despesas com Manutenção,57
+Móveis e utensílios,4.6.1.01.05.000006,Despesas com Manutenção,57
+Computadores e perifericos,4.6.1.01.05.000007,Tecnologia da Informação,55
+Veiculos leves,4.6.1.01.05.000008,Despesas com Manutenção,57
+INSTALAÇÕES INDUSTRIAIS,4.6.1.01.05.000003,Despesas com Manutenção,57
+Reclassificação de despesas - manutenção,4.6.1.01.05.999996,Despesas com Manutenção,57
+DESPESAS DE CAMPO,,0,
+Topografia,4.6.1.01.06.000001,Serviços Contratados,54
+Geoquimica,4.6.1.01.06.000003,Serviços Contratados,54
+Geofisica,4.6.1.01.06.000004,Serviços Contratados,54
+Sondagens,4.6.1.01.06.000005,Serviços Contratados,54
+Laboratorio,4.6.1.01.06.000006,Serviços Contratados,54
+Geologia,4.6.1.01.06.000007,Serviços Contratados,54
+Superficiarios,4.6.1.01.06.000009,Serviços Contratados,54
+Locação de máquinas e equip. em campo,4.6.1.01.06.000011,Serviços Contratados,54
+Material de campo,4.6.1.01.06.000012,Serviços Contratados,54
+Meio ambiente,4.6.1.01.06.000013,Serviços Contratados,54
+DESPESAS COMERCIAIS,,0,
+MÃO DE OBRA,,,
+Inss,4.6.1.02.01.000007,Despesas com Pessoal,51
+VENDAS,,0,
+Eventos - outros,4.6.1.02.02.000007,Outras Despesas,59
+Assessoria comercial,4.6.1.02.02.000008,Outras Despesas,59
+Frete comercial / vendas,4.6.1.02.02.000003,Outras Despesas,59
+MARKETING,,0,
+Publicidade e propaganda,4.6.1.02.03.000001,Outras Despesas,59
+DESPESAS TRIBUTARIAS,,0,
+DESPESAS TRIBUTARIAS,,0,
+Iptu (imóveis próprios),4.6.1.03.01.000002,Impostos e Taxas,52
+Iptu (imóveis terceiros),4.6.1.03.01.000003,Impostos e Taxas,52
+Icms normal,4.6.1.03.01.000020,Impostos e Taxas,52
+Icms - diferencial de alíquota,4.6.1.03.01.000021,Impostos e Taxas,52
+Ipva/seguro obrigatorio/licenciamento,4.6.1.03.01.000023,Impostos e Taxas,52
+Tah - taxa anual por hectare,4.6.1.03.01.000041,Impostos e Taxas,52
+Iof,4.6.1.03.01.000043,Impostos e Taxas,52
+Pis s/ receita financeira,4.6.1.03.01.000050,Impostos e Taxas,52
+Cofins s/ receita financeira,4.6.1.03.01.000051,Impostos e Taxas,52
+Multas por infrações fiscais,4.6.1.03.01.000100,Impostos e Taxas,52
+Issqn,4.6.1.03.01.000001,Impostos sobre Vendas,341
+DESPESAS FINANCEIRAS,,0,
+DESPESAS FINANCEIRAS,,0,
+Juros passivos,4.6.1.04.01.000001,Resultado Financeiro,91
+Tarifas bancarias,4.6.1.04.01.000004,Resultado Financeiro,91
+Descontos concedidos,4.6.1.04.01.000005,Resultado Financeiro,91
+Multas,4.6.1.04.01.000006,Resultado Financeiro,91
+Juros s/ emprestimos e financiamentos,4.6.1.04.01.000008,Resultado Financeiro,91
+DESPESAS NAO DEDUTIVEIS,,0,
+DESPESAS NAO DEDUTIVEIS,,0,
+Despesas nao dedutiveis,4.6.1.05.01.000001,Outras Despesas,59
+OUTRAS DESPESAS OPERACIONAIS,,0,
+OUTRAS DESPESAS OPERACIONAIS,,0,
+OUTRAS DESPESAS OPERACIONAIS,,0,
+Custos na alienação de imobilizado,4.6.2.01.99.000004,Receitas e Despesas Não Recorrentes,73
+Prov. perdas est. e ajust. ativos  pecld,4.6.2.01.99.000009,Provisões,62
+Despesas nao recorrentes,4.6.2.01.99.000012,Receitas e Despesas Não Recorrentes,73
+Outras despesas operacionais,4.6.2.01.99.999999,Outras Despesas,59
+Vr ref provisao para contingencia de natureza tributaria ac,4.6.2.01.99.000011,Provisões,62
+Despesas extraordinarias,4.6.2.01.99.000014,Receitas e Despesas Não Recorrentes,73
+Reversão dos saldos das provisões,4.6.2.01.99.000099,Provisões,62
+Perdas estimadas por impairment,4.6.2.01.99.000007,Receitas e Despesas Não Recorrentes,73
+PERDAS COM CREDITOS INCOBRAVEIS,4.6.2.01.99.000015,Provisões,62
+,,,
+PROVISÃO IRPJ/CSLL,,0,
+PROVISÃO IRPJ/CSLL,,0,
+PROVISÃO IRPJ/CSLL,,0,
+PROVISÃO IRPJ/CSLL,,0,
+Provisão csll,4.7.1.01.01.000001,IRPJ e CSLL,92
+Provisão irpj,4.7.1.01.01.000002,IRPJ e CSLL,92

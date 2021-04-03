@@ -1,0 +1,89 @@
+﻿REP_ID,REP_ACCOUNT_POR,REP_ACCOUNT_ENG
+1,Ativo,Assets
+11,Circulante,Current Assets
+111,Caixa e Bancos,Cash at Hand and Bank Balances
+112,Aplicações Financeiras,Marketable Securities
+113,Clientes,Accounts Receivable
+114,Estoques,Inventories
+115,Impostos a Recuperar,Recoverable Taxes
+116,Despesas Antecipadas,Advanced Payments
+117,Mutuo Ativo CP,Intercompany Loans Current
+118,Outros Ativos,Other Current Assets
+12,Nao Circulante,Noncurrent Assets
+121,Depositos Judiciais,Judicial Deposits
+122,IR e CS Diferidos,Deferred Income Taxes
+123,Mútuo Ativo LP,Intercompany Loans Noncurrent
+124,Investimentos,Investments
+125,Ativos Biológicos,Biological Assets
+126,Arrendamentos,Leasing
+127,Imobilizado,PPE
+128,Intangível,Intangible Assets
+129,Outros Ativos Longo Prazo,Other Noncurrent Assets
+2,Passivo e Patrimônio Líquido,Liabilities and Shareholders Equity
+21,Passivo Circulante,Current Liabilities
+211,Fornecedores,Suppliers
+212,Obrigações Trabalhistas,Accrued Compensation
+213,Obrigações Sociais,Accrued Social Charges
+214,Obrigações Tributárias,Accrued Taxes
+215,Impostos diferidos,Deferred Income Taxes
+216,Empréstimos e financiamentos CP,Short Term and Current portion of Long Term Loans
+217,Mútuo Passivo CP,Intercompany Loans - current
+218,Dividendos/Bonus a Pagar,Dividends and Bonuses Payable
+219,Outros Passivos Circulantes,Other Current Liabilities
+22,Passivo Não Circulante,Noncurrent Liabilities
+221,Empréstimos e Financiamentos LP,Long Term Loans
+222,Mútuo Passivo LP,Intercompany Loans Noncurrent
+223,Contingencias,Contingencies
+23,Patrimônio Líquido,Shareholders Equity
+231,Capital Social,Paid in Capital
+232,AFAC,Advance for Future Capital Increase
+233,Reserva de Capital,Capital Reserves
+234,Reserva Legal,Legal Reserves
+235,Lucros Acumulados,Accumulated Profits
+236,Ajustes de Avaliação Patrimonial,Assets Revaluation Adjustments
+237,Lucro do Exercício,Net Profit for the Period
+238,Minoritários,Minorities
+3,Receitas Operacionais,Gross Revenues
+31,Receita de Venda de Produtos,Revenues from Sale of Products
+32,Receita de Prestação de Serviços,Revenues from Services Rendered
+33,Outras Receitas Operacionais,Other Operational Revenues
+34,Deduções da Receita Bruta,Deductions from Gross Revenues
+341,Impostos sobre Vendas,Sales Taxes
+342,Descontos e Abatimentos,Sales Discounts
+A,Receita Líquida,Net Revenues
+4,Custos do Produtos ou Serviço Prestado,Cost of Product Sold or Services Rendered
+41,Insumos,Supplies
+42,Pessoal,Personnel
+43,Serviços de Terceiros,Third Party Services Cost
+44,Manutenção,Maintenance Costs
+45,Concessionárias,Utilities Costs
+46,Fretes e Transportes,Freight and Transportation Costs
+47,Custo dos Imóveis Vendidos,Cost of Sold Real Estate
+48,ITR,ITR
+49,Outros Custos,Other Costs
+B,Lucro Bruto,Gross Profit
+5,Despesas Gerais e Administrativas,G&A
+51,Despesas com Pessoal,Personnel Expenses
+52,Impostos e Taxas,Nonincome Taxes
+53,Consultoria de Gestão,Management Consulting
+54,Serviços Contratados,Third Party Services expenses
+55,Tecnologia da Informação,IT
+56,Concessionárias (Desp),Utilities Expenses
+57,Despesas com Manutenção,Sales Expenses
+58,Despesas de Locação de Imóveis,Rental Expenses
+59,Outras Despesas,Other Expenses
+C,EBTIDA Ajustado,Adjusted EBITDA
+61,Variaçao do Ativo Biologico,Biological Assets Variation
+62,Provisões,Accruals
+63,Despesas Judiciais e Cartorais,Judicial and Registrar Expenses
+D,EBTIDA Recorrente,Recurring EBITDA
+71,Bonus e PLR,Bonuses and Profit Sharing
+72,Despesas de Reestruturação,Reestructuring Expenses
+73,Receitas e Despesas Não Recorrentes,Nonrecurring Revenues and Expenses
+E,EBITDA,EBITDA
+81,Equivalência Patrimonial,Equity Result
+82,Depreciação & Amortização,Depreciation and Amortization
+F,EBIT,EBIT
+91,Resultado Financeiro,Net Financial Results
+92,IRPJ e CSLL,Income Taxes
+G,Lucro Líquido do Exercício,Net Profit for the Period
