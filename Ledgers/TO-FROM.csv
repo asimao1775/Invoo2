@@ -197,7 +197,7 @@ Nutricionais,1.1.3.02.01.000002,Estoques,114
 Adubo / fertilizante,1.1.3.02.01.000012,Estoques,114
 ESTOQUES PARA COMERCIALIZACAO,,0,
 ESTOQUES PARA COMERCIALIZACAO,,0,
-"Posse 1,2,3 e 16 lotes 14 e 15 c jardim",1.1.3.05.01.000005,Estoques,114
+Posse 123 e 16 lotes 14 e 15 c jardim,1.1.3.05.01.000005,Estoques,114
 Posse paulo henrique l 12 m couto 490,1.1.3.05.01.000007,Estoques,114
 BARÃO HOMEM DE MELO 2291 - LOTES 05 E 06,1.1.3.05.01.000038,Estoques,114
 BARÃO HOMEM DE MELO 2251 - LOTES 04 QUA,1.1.3.05.01.000037,Estoques,114
@@ -349,7 +349,7 @@ Ed salazar lote 7 quarteirao 68 b estor,1.2.2.07.01.000004,Imobilizado,127
 Contorno - cidade jardim - lote 01 - qd,1.2.2.07.01.000051,Imobilizado,127
 Barão homem de melo 2251 - lotes 04 quad,1.2.2.07.01.000052,Imobilizado,127
 Barão homem de melo 2291 - lotes 05 e 06,1.2.2.07.01.000053,Imobilizado,127
-"Lotes 5,6,7,8,9 - rua nazare - sta lucia",1.2.2.07.01.000054,Imobilizado,127
+Lotes 5 - 9 - rua nazare - sta lucia,1.2.2.07.01.000054,Imobilizado,127
 Contorno - cidade jardim - lotes quadra,1.2.2.07.01.000055,Imobilizado,127
 Predio - rua dos pampas 568,1.2.2.07.01.000056,Imobilizado,127
 Salao - ave raja gabalia - bh,1.2.2.07.01.000057,Imobilizado,127
@@ -359,7 +359,7 @@ FRANCISCO BHERING APARTAMENTO 101 AV,1.2.2.07.01.000010,Imobilizado,127
 IMOBILIZADO,,0,
 TERRENOS,,0,
 TERRENOS,,0,
-"Terreno - area 8047, 45 mts st lucia bh",1.2.3.01.01.000001,Imobilizado,127
+Terreno - area 8047  45 mts st lucia bh,1.2.3.01.01.000001,Imobilizado,127
 Terreno - fazenda (mtr),1.2.3.01.01.000003,Imobilizado,127
 Terrenos querença peccuaria emp. rural,1.2.3.01.01.000004,Imobilizado,127
 EDIFICAÇÕES E CONSTRUÇÕES,,0,
@@ -378,7 +378,7 @@ MAQUINAS E EQUIPAMENTOS FIXOS,,0,
 MAQUINAS E EQUIPAMENTOS FIXOS,,0,
 Maquinas e equipamentos fixos,1.2.3.05.01.000001,Imobilizado,127
 MÓVEIS E UTENSÍLIOS,,0,
-"MOVEIS, UTENSILIOS",,0,
+MOVEIS E UTENSILIOS, ,,0
 Moveis e utensilios,1.2.3.06.01.000001,Imobilizado,127
 COMPUTADORES E PERIFÉRICOS,,0,
 COMPUTADORES E PERIFERICOS,,0,
@@ -748,10 +748,10 @@ Descontos incondicionais e abatimentos,3.1.3.02.01.000001,Descontos e Abatimento
 TRIBUTOS INCIDENTES RECEITA BRUTA,,0,
 TRIBUTOS S/ RECEITA BRUTA-MERC. INTERNO,,0,
 Icms s/ faturamento,3.1.3.03.01.000002,Impostos sobre Vendas,341
-Cofins s/ faturamento,3.1.3.03.01.000003,Lucro (Prejuízo) do Período/Exercício,341
-Pis/pasep s/ faturamento,3.1.3.03.01.000004,Lucro (Prejuízo) do Período/Exercício,341
-Inss s/ faturamento,3.1.3.03.01.000005,Lucro (Prejuízo) do Período/Exercício,341
-Iss s/ faturamento,3.1.3.03.01.000001,Lucro (Prejuízo) do Período/Exercício,341
+Cofins s/ faturamento,3.1.3.03.01.000003,Impostos sobre Vendas,341
+Pis/pasep s/ faturamento,3.1.3.03.01.000004,Impostos sobre Vendas,341
+Inss s/ faturamento,3.1.3.03.01.000005,Impostos sobre Vendas,341
+Iss s/ faturamento,3.1.3.03.01.000001,Impostos sobre Vendas,341
 OUTRAS RECEITAS OPERACIONAIS,,0,
 OUTRAS RECEITAS OPERACIONAIS,,0,
 RECEITAS FINANCEIRAS,,0,
@@ -807,7 +807,7 @@ Locação de equipamentos com operador,4.1.1.01.04.000006,Serviços de Terceiros
 Abcz / acbb / amb,4.1.1.01.04.000007,Serviços de Terceiros,43
 Ima,4.1.1.01.04.000008,Serviços de Terceiros,43
 CONSULTORIA TÉCNICA,,0,
-"Tipagem sanguinea , exames e genotipagem",4.1.1.01.05.000001,Serviços de Terceiros,43
+Tipagem sanguinea  exames e genotipagem,4.1.1.01.05.000001,Serviços de Terceiros,43
 Aspiração/te,4.1.1.01.05.000003,Serviços de Terceiros,43
 Consultoria téc nutrição animal-agronom,4.1.1.01.05.000005,Serviços de Terceiros,43
 CUSTOS C/ MANUTENÇÃO,,0,
@@ -826,10 +826,10 @@ Telefonia móvel,4.1.1.01.08.000005,Concessionárias,45
 Refeições e lanches,4.1.1.01.08.000007,Concessionárias,45
 Conservação e limpeza,4.1.1.01.08.000008,Serviços de Terceiros,43
 Viagens e estadias,4.1.1.01.08.000009,Pessoal,42
-"Condução, pedagios e estacionamento",4.1.1.01.08.000010,Fretes e Transportes,46
+Condução - pedagios e estacionamento,4.1.1.01.08.000010,Fretes e Transportes,46
 Combustíveis e lubrificantes,4.1.1.01.08.000011,Fretes e Transportes,46
 Bens de pequeno valor,4.1.1.01.08.000012,Outros Custos,49
-"Despesas cartoriais, taxas e emolumentos",4.1.1.01.08.000015,Outros Custos,49
+Despesas cartoriais -  taxas e emolumentos,4.1.1.01.08.000015,Outros Custos,49
 Royalties,4.1.1.01.08.000019,Outros Custos,49
 Ipva/seguro obrigatorio/licenciamento,4.1.1.01.08.000023,Fretes e Transportes,46
 Locação de maquinas e equipamentos,4.1.1.01.08.000013,Serviços de Terceiros,43
@@ -856,7 +856,7 @@ Telefonia móvel,4.6.1.01.01.000004,Concessionárias (Desp),56
 Internet,4.6.1.01.01.000005,Concessionárias (Desp),56
 Locação de imoveis,4.6.1.01.01.000006,Serviços Contratados,54
 Locação de veiculos,4.6.1.01.01.000007,Serviços Contratados,54
-"Assinatura periodicos,jornais e revistas",4.6.1.01.01.000008,Outras Despesas,59
+"Assinatura periodicos, jornais e revistas",4.6.1.01.01.000008,Outras Despesas,59
 "Condução, pedagios e estacionamento",4.6.1.01.01.000009,Outras Despesas,59
 "Copias, encadernacoes e impressoes",4.6.1.01.01.000010,Outras Despesas,59
 Correios,4.6.1.01.01.000011,Outras Despesas,59
@@ -870,7 +870,7 @@ Bens de pequeno valor,4.6.1.01.01.000018,Outras Despesas,59
 Alojamento,4.6.1.01.01.000019,Despesas com Pessoal,51
 Seguros,4.6.1.01.01.000020,Outras Despesas,59
 Brindes e doações,4.6.1.01.01.000022,Outras Despesas,59
-"Despesas cartoriais, taxas e emolumentos",4.6.1.01.01.000023,Outras Despesas,59
+Despesas cartoriais -  taxas e emolumentos,4.6.1.01.01.000023,Outras Despesas,59
 Condominio,4.6.1.01.01.000024,Despesas de Locação de Imóveis,58
 Publicações legais,4.6.1.01.01.000025,Outras Despesas,59
 Combustíveis e lubrificantes,4.6.1.01.01.000026,Outras Despesas,59
